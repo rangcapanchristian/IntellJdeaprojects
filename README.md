@@ -2,6 +2,8 @@
 Laboratory Activity
 
 public class Main {
+
+
     /**
      * This method takes in two int parameters to add.
      *
